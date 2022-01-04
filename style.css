@@ -44,15 +44,14 @@ h1 {
     margin: 50px;
     padding-left: 30px;
     box-shadow: 1px 1px 40px gray;
+    border-left: 7px solid;
 }
 .full-stack {
-    border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
 .baby-web {
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
+    border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
 footer {
